@@ -14,5 +14,5 @@ provider "azurerm" {
 
 resource "azurerm_resource_group" "mohamed" {
 name = "mohamed"
-location = "south india"
+location = "uk south"
 }
